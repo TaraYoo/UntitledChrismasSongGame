@@ -89,14 +89,19 @@ TBD
 #### Game Levels
 MVP should have 2 levels with 2 different type of department store layouts and speakers
 #### Player's Controls
-- MVP: Moving around the store corridors, hiding behind displays and signs, and clicking the speakers to stop the music
-- Beyond: Manipulating the environment to lay down distractions down the line
-ex) player sees a customer looking for help, they could block off a corridor to coax the customer to run into the manager, who'd have to help them
-ex) player messes up the display, making the manager need to go off to find someone to clean it up
-ex) player sees a customer holding bread, looking confused, they could put down associated stuff like jam in the customer's way in case the customer 
+
+##### MVP
+Moving around the store corridors, hiding behind displays and signs, and clicking the speakers to stop the music
+
+##### Beyond
+1. Manipulating the environment to lay down distractions down the line. Potential examples below
+- player sees a customer looking for help, they could block off a corridor to coax the customer to run into the manager, who'd have to help them
+- player messes up the display, making the manager need to go off to find someone to clean it up
+- player sees a customer holding bread, looking confused, they could put down associated stuff like jam in the customer's way in case the customer 
 had been looking for jam. The customer, once they have what they wanted, would leave
-- Beyond: mini puzzle to break the speaker -- player could make a tradeoff to spend more time solving a puzzle to break the speaker rather than just turning it off.
+2. Mini puzzle to break the speaker -- player could make a tradeoff to spend more time solving a puzzle to break the speaker rather than just turning it off.
 Having a higher breakage point would put the speaker out of commission for longer, but they'd open themselves up to higher chance of getting caught
+
 #### Winning
 Player does not lose all their employability rating and sanity rating at the end of the level
 #### Losing
