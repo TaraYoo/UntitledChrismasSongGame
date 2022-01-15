@@ -1,7 +1,7 @@
 # UntitledChrismasSongGame - GDD
 
 ## Introduction
-The player is a retail worker who needs to navigate their department store to turn off Christmas music. The player needs to hide their sabotage from managers and evade as many customers as possible.
+The player is a retail worker who needs to navigate their department store to turn off Christmas music. The player needs to hide their sabotage from managers and evade customers as much as possible.
 
 ### Genre
 Pacman clone
